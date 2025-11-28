@@ -2,6 +2,8 @@
 
 A comprehensive guide for book lovers to find the correct reading order for their favorite series and authors.
 
+![Website Preview](public/website-preview.png)
+
 **Live Website:** [https://inorderbookseries.com/](https://inorderbookseries.com/)
 
 ## Features
