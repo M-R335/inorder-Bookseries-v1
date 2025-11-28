@@ -1,0 +1,19 @@
+{
+    "name": "Reading Order Books",
+    "short_name": "ReadingOrder",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/book2.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#fdf6e3",
+    "background_color": "#fdf6e3",
+    "display": "standalone"
+}
